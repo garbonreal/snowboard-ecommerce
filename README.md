@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FrostEdge | E-commerce react app
 Simple ecommerce react js app with firebase [typescript].
 ![Firebase Deploy](https://github.com/jgudo/ecommerce-react/workflows/Firebase%20Deploy/badge.svg)
@@ -64,3 +65,7 @@ $ yarn build
 * Firebase auth provider authentication
 * Account creation and edit
 
+=======
+# snowboard-ecommerce
+Snow board react and js app with firebase
+>>>>>>> ba5bbc4d39efbe9ff18e793705f1c3700d66f4ce
